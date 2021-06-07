@@ -6,6 +6,7 @@
 #define	ASN1_PARSER_EXPR_STR_H
 
 #include <assert.h>
+#include <stddef.h>
 
 #ifndef	__GNUC__
 #define	__attribute__(x)	/* unused */
